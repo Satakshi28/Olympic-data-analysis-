@@ -1,5 +1,3 @@
-# Olympic-data-analysis-
-Data analysis on Olympic datasets using Python for insights and visualizations.
 # Olympic Data Analysis
 
 This project focuses on analyzing Olympic datasets to find useful insights and patterns.  
